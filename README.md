@@ -1,18 +1,18 @@
-# IBM-Project-49916-1660884560
+# IBM-Project-33785-1660226768
 News Tracker Application
 
 |      **Project Name**     | News Tracker Application |
 |:---------------------:|:------------------------------:|
 |         **Domain**        |  Cloud Application Development |
-|        **Team ID**        |  PNT2022TMID24629 |
+|        **Team ID**        |  PNT2022TMID15415 |
 
 # Team Members :
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
-| Team Leader   |    **J Manojkumar**   |
-| Team Member 1 |   **V Manu**  |
-| Team Member 2 |  **Navin Anand SP**  |
-| Team Member 3 | **Kevin Jacob SA** |
+| Team Leader   |    **SOMPALLI ADITHYA**   |
+| Team Member 1 |   **NEERAJ KUMAR**  |
+| Team Member 2 |  **UDAY VOORKONDA**  |
+| Team Member 3 | **VENKATA SAI** |
 
 
 ## Required Skills :
